@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+.pyinstaller/
+*.spec
+.DS_Store
+2月和3月/
+*.pdf
